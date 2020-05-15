@@ -2,5 +2,5 @@
 este proyecto es de prueba
 # Creditos
     - Ortega
-    - Chaoz
-    - Dota
+    - Portugal
+    - Lavado
