@@ -1,6 +1,6 @@
 # simple
 este proyecto es de prueba
 # Creditos
-    - Ortega
-    - Portugal
-    - Lavado
+    - Ortega Santivañez
+    - Portugal Robles
+    - Lavado Chuco
