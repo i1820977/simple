@@ -12,3 +12,7 @@ este proyecto es de prueba
 | Hippo     | 0.6.3   | https://sourceforge.net/projects/opensim-viewer/ |
 | Sublime   | 3211    | https://www.sublimetext.com/3                    |
 | VisualCode| 1.2.3   | https://code.visualstudio.com                    |
+
+
+## Como desplegar la aplicacin
+-- Para desplegar la aplicacion se realiza la siguiente
