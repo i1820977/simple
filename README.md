@@ -20,3 +20,6 @@ este proyecto es de prueba
 ## Actividad N 01
 -- Cambios realizados para las 10:53
 -- Daniel Ortega Santivañez
+
+## Cambios en dev.v1
+-- Los cambios son muchos xD
