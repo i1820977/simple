@@ -16,3 +16,6 @@ este proyecto es de prueba
 
 ## Como desplegar la aplicacin
 -- Para desplegar la aplicacion se realiza la siguiente
+
+## Actividad N 01
+-- Cambios realizados para las 10:53
