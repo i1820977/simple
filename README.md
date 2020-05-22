@@ -1,25 +1,27 @@
 # simple
-este proyecto es de prueba
+Requerimientos Hospedaje Placer
 # Creditos
     - Ortega Santivañez
     - Portugal Robles
     - Lavado Chuco
 # Requerimientos
-|Software   | Version | Pagina Web                                       |
-| ----------|---------|--------------------------------------------------|
-| Steamapp  | 12.0    | https://store.steampowered.com/?l=spanish        |
-| Xampp     | 7.4.5   | https://www.apachefriends.org/es/index.html      |
-| Hippo     | 0.6.3   | https://sourceforge.net/projects/opensim-viewer/ |
-| Sublime   | 3211    | https://www.sublimetext.com/3                    |
-| VisualCode| 1.2.3   | https://code.visualstudio.com                    |
+	- Registrar Datos del cliente.
+	- Registrar Datos de la Habitación.
+	- Registrar documento de Identidad.
+	- Registrar Datos del Huésped.
+	- Registrar la Reserva.
+	- Registrar Datos de Pago.
+	- Registrar plataforma de pago.
+	- Registrar pago de la reserva 
+	- Registrar y emitir comprobante de pago.
+	- Registrar Habitación
+	- Registrar Precio de Habitación
+	- Registrar tipo de Habitación
+	- Búsquedar datos con filtros.
+	- Registrar personal al sistema
+	- Limitacionar según cargo
+	- Registrar Nuevo Personal
+	- Deshabilitar Personal
 
-
-## Como desplegar la aplicacin
--- Para desplegar la aplicacion se realiza la siguiente
-
-## Actividad N 01
--- Cambios realizados para las 10:53
--- Daniel Ortega Santivañez
-
-## Cambios en dev.v1
--- Los cambios son muchos xD
+# Realizado por
+	- Daniel Angel Ortega Santivañez
